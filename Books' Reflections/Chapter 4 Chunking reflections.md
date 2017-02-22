@@ -91,8 +91,34 @@ mindless robots—the retrieval process itself enhances deep learning and helps 
 
 * You can’t learn mathematics or science without also including a healthy dose of practice and repetition	to	help you build the chunks that will underpin your	expertise.
 
+* In the same amount of time, by simply practicing and recalling the material, students learned far more and at a much deeper level than they did using any other approach, including simply rereading the text a number of times or drawing concept maps that supposedly enriched the relationships in the materials under study. This improved learning comes whether students take a formal test or just informally test themselves.
+
+---
+#Recall	Material	While	Outside	Your	Usual	Place	of	Study:	The	Value	of	Walking
+
+* Recalling material when you are outside your usual place of study helps you strengthen your grasp of the material by viewing it from a different perspective.
+
+* If you don’t practice with your growing chunks, it is harder to put together the big picture—the	pieces are simply too faint.
+
 ---
 ## Interleaving—Doing a Mixture of Different Kinds of Problems—versus Overlearning
+
+* Interleaving means practice by doing a mixture of different kinds of problems requiring different strategies.
+
+* Continuing the study or practice after it is well understood is called overlearning.
+
+* Overlearning can help produce an automaticity that is important when you are executing a serve in tennis or playing a perfect piano concerto. But be wary of repetitive overlearning during a single session in math and science learning —research has shown it can be a waste of valuable learning time.
+
+* Revisiting the approach mixed with other approaches during a subsequent study session, however, is just fine.
+
+* EMPHASIZE INTERLEAVING INSTEAD OF OVERLEARNING.
+
+* Overlearning refers to a learning strategy in which a student continues to study or practice immediately after some criterion has been achieved.
+    *  ***An example might be correctly solving a certain kind of math problem and then immediately working several more problems of the same kind. Although working more problems of the same kind (rather than fewer) often boosts scores on a subsequent test, doing too many problems of the same kind in immediate succession provides diminishing returns.***
+
+
+
+
 
 ___
 
